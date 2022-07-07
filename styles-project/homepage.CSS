@@ -183,6 +183,7 @@ button > .button__icon {
     color: white;
     font-size: 1.2em;
     font-weight: bold;
+    position: relative;
 }
 
 html,body {
@@ -199,6 +200,7 @@ html,body {
     left: 920px;
     top: 48px;
     font-weight: bold;
+    position: relative;
 }
 
 .mid-section > .middle-section > .codepen-is-a {
