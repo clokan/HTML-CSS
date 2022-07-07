@@ -9,6 +9,7 @@ svg {
     width: 140px;
     position: relative;
     left: 30px;
+    top: -2px;
     
 }
 
@@ -27,41 +28,48 @@ svg {
 }
 
 .header > .explore {
-    font-size: 12px;
+    font-size: 14px;
     color: #cea135;
-    
+    position: relative;
+    left: 1px;
+    top: -17px;
+    font-weight: bold;
 }
 
 .header > .white-bar > .pens {
     font-size: 20px;
     position: relative;
-    left: -135px;
+    left: -139px;
     color: white;
+    top: 40px;
+    font-weight: bold;
 }
 
 .header > .white-bar > .projects {
     font-size: 20px; 
     position: relative;
     left: -79px;
-    top: 27px;
+    top: 17px;
     color: white;
+    font-weight: bold;
 }
 
 .header > .white-bar > .posts {
     font-size: 20px;
+    font-weight: bold;
     color: white;
     position: relative;
-    left: 9px;
-    top: 4px
-    
-
+    left: 12px;
+    top: -5px
 }
+    
 .header > .white-bar > .collections {
     font-size: 20px;
     color: white;
     position: relative;
-    left: 79px;
-    top: -18px;
+    left: 81px;
+    top: -27px;
+    font-weight: bold;
 }
 
 
@@ -74,7 +82,7 @@ svg {
     background-color: grey;
     border: none;
     border-radius: 5px;
-    
+    top: 20px;
     
 }
 .button-2  {
@@ -87,6 +95,7 @@ svg {
     border-radius: 5px;
     position: relative;
     left: 70px;
+
 }
 .button-3  {
     position: relative;
@@ -97,23 +106,27 @@ svg {
     border: none;
     border-radius: 5px;
     position: relative;
-    top: 16px;
+    top: 3px;
+    left: 13px;
 }
 
 
 .header > .spark {
     position: relative;
-    top: 18px;
-    left: 20px;
+    top: 9px;
+    left: 45px;
     color: grey;
+    font-size: 1.2em;
+    font-weight: bold;
 }
 
 .header > .arrow {
     position: relative;
-    top: 20px;
-    left: -50px;
+    top: 12px;
+    left: -8px;
     color: grey;
-    font-size: .7em;
+    font-size: .9em;
+    font-weight: bold;
 }
 
 button > .button__icon {
@@ -123,18 +136,18 @@ button > .button__icon {
 
 .button-1 {
     position: relative;
-    top: 15px;
+    top: 3px;
     left: 155px;
 }
 .button-2 {
     position: relative;
-    top: 15px;
+    top: 3px;
 }
 
 .header > .search {
     position: relative;
-    top: 18px;
-    font-size: 1.7em;
+    top: 3px;
+    font-size: 2.1em;
     color: grey;
     position: relative;
     left: 110px;
