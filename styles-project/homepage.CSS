@@ -170,8 +170,8 @@ button > .button__icon {
 }
 
 .mid-section > .middle-section > .image img {
-    height: 500px;
-    width: 500px;
+    height: 520px;
+    width: 520px;
     position: relative;
     left: 858px;
 }
@@ -445,6 +445,3 @@ html,body {
     height: 100vh;
 }
 
-@media () {
-    
-}
