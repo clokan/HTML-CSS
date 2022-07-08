@@ -5,11 +5,11 @@
 }
 
 svg {
-    height: 140px;
-    width: 140px;
+    height: 200px;
+    width: 200px;
     position: relative;
     left: 30px;
-    top: -2px;
+    top: -1px;
     
 }
 
@@ -28,7 +28,7 @@ svg {
 }
 
 .header > .explore {
-    font-size: 14px;
+    font-size: 17px;
     color: #cea135;
     position: relative;
     left: 1px;
@@ -37,38 +37,38 @@ svg {
 }
 
 .header > .white-bar > .pens {
-    font-size: 20px;
+    font-size: 23px;
     position: relative;
-    left: -139px;
+    left: -150px;
     color: white;
-    top: 40px;
+    top: 50px;
     font-weight: bold;
 }
 
 .header > .white-bar > .projects {
-    font-size: 20px; 
+    font-size: 23px; 
     position: relative;
-    left: -79px;
-    top: 17px;
+    left: -75px;
+    top: 24px;
     color: white;
     font-weight: bold;
 }
 
 .header > .white-bar > .posts {
-    font-size: 20px;
+    font-size: 23px;
     font-weight: bold;
     color: white;
     position: relative;
-    left: 12px;
-    top: -5px
+    left: 35px;
+    top: -2px
 }
     
 .header > .white-bar > .collections {
-    font-size: 20px;
+    font-size: 23px;
     color: white;
     position: relative;
-    left: 81px;
-    top: -27px;
+    left: 120px;
+    top: -29px;
     font-weight: bold;
 }
 
@@ -76,8 +76,8 @@ svg {
 
  button {
     position: relative;
-    font-size: 20px;
-    padding: 15px;
+    font-size: 25px;
+    padding: 20px;
     color: white;
     background-color: grey;
     border: none;
@@ -87,8 +87,8 @@ svg {
 }
 .button-2  {
     position: relative;
-    font-size: 20px;
-    padding: 15px;
+    font-size: 25px;
+    padding: 20px;
     color: white;
     background-color: grey;
     border: none;
@@ -99,33 +99,33 @@ svg {
 }
 .button-3  {
     position: relative;
-    font-size: 20px;
-    padding: 15px;
+    font-size: 25px;
+    padding: 20px;
     color: white;
     background-color: grey;
     border: none;
     border-radius: 5px;
     position: relative;
     top: 3px;
-    left: 13px;
+    left: 47px;
 }
 
 
 .header > .spark {
     position: relative;
-    top: 9px;
-    left: 45px;
+    top: 11px;
+    left: 95px;
     color: grey;
-    font-size: 1.2em;
+    font-size: 1.4em;
     font-weight: bold;
 }
 
 .header > .arrow {
     position: relative;
     top: 12px;
-    left: -8px;
+    left: 43px;
     color: grey;
-    font-size: .9em;
+    font-size: 1.1em;
     font-weight: bold;
 }
 
@@ -137,20 +137,21 @@ button > .button__icon {
 .button-1 {
     position: relative;
     top: 3px;
-    left: 155px;
+    left: 165px;
 }
 .button-2 {
     position: relative;
     top: 3px;
+    left: 100px;
 }
 
 .header > .search {
     position: relative;
     top: 3px;
-    font-size: 2.1em;
+    font-size: 2.5em;
     color: grey;
     position: relative;
-    left: 110px;
+    left: 130px;
 }
 
 .pens {
@@ -170,18 +171,18 @@ button > .button__icon {
 }
 
 .mid-section > .middle-section > .image img {
-    height: 520px;
-    width: 520px;
+    height: 610px;
+    width: 640px;
     position: relative;
-    left: 858px;
+    left: 910px;
 }
 
 .mid-section > .middle-section > .this-is {
     position: relative;
-    left: 860px;
+    left: 930px;
     top: 70px;
     color: white;
-    font-size: 1.2em;
+    font-size: 1.4em;
     font-weight: bold;
     position: relative;
 }
@@ -196,9 +197,9 @@ html,body {
 .mid-section > .middle-section > .codepen-projects {
     position: relative;
     color: lightblue;
-    font-size: 1.2em;
-    left: 920px;
-    top: 48px;
+    font-size: 1.4em;
+    left: 1000px;
+    top: 45px;
     font-weight: bold;
     position: relative;
 }
@@ -207,99 +208,99 @@ html,body {
     position: relative;
     color: lightgray;
     font-weight: lighter;
-    top: -500px;
-    left: 65px;
-    font-size: 2.3em;
+    top: -640px;
+    left: 75px;
+    font-size: 2.8em;
 }
 
 .mid-section > .middle-section > .social-development {
     position: relative;
     color: white;
     font-weight: bold;
-    top: -543px;
-    left: 268px;
-    font-size: 2.3em;   
+    top: -693px;
+    left: 320px;
+    font-size: 2.8em;   
 }
 
 .mid-section > .middle-section > .environment {
     position: relative;
     color: white;
     font-weight: bold;
-    top: -550px;
-    left: 65px;
-    font-size: 2.3em;    
+    top: -695px;
+    left: 75px;
+    font-size: 2.8em;    
 }
 .mid-section > .middle-section > .design {
     position: relative;
     color: lightgrey;
     font-weight: lighter;
-    top: -593px;
-    left: 275px;
-    font-size: 2.3em;    
+    top: -747px;
+    left: 328px;
+    font-size: 2.8em;    
 }
 
 .mid-section > .middle-section > .developers {
     position: relative;
     color: lightgrey;
     font-weight: lighter;
-    top: -600px;
-    left: 65px;
-    font-size: 2.3em;   
+    top: -750px;
+    left: 75px;
+    font-size: 2.8em;   
 }
 
 
  .mid-section > .middle-section > i {
     color: yellow;
     position: relative;
-    top: -637px;
-    left: 300px;
-    font-size: 2.3em; 
+    top: -795px;
+    left: 365px;
+    font-size: 2.8em; 
  }   
 
 .mid-section > .middle-section > .its {
     position: relative;
     color: lightgrey;
     font-weight: lighter;
-    top: -570px;
-    left: 65px;
-    font-size: 1.9em; 
+    top: -750px;
+    left: 75px;
+    font-size: 2.5em; 
 }
 
 .mid-section > .middle-section > .web {
     position: relative;
     color: lightgrey;
     font-weight: lighter;
-    top: -560px;
-    left: 65px;
-    font-size: 1.9em;
+    top: -730px;
+    left: 75px;
+    font-size: 2.5em;
 }
 
 .mid-section > .middle-section > .inspiration {
     position: relative;
     color: lightgrey;
     font-weight: lighter;
-    top: -550px;
-    left: 65px;
-    font-size: 1.9em;
+    top: -710px;
+    left: 75px;
+    font-size: 2.5em;
 }
 
 .mid-section > .middle-section > .button-4 {
     position: relative;
-    top: -500px;
-    left: 68px;
+    top: -650px;
+    left: 78px;
     color: black;
-    font-size: 1.8em;
+    font-size: 2.4em;
     background-color: #39e75f;
     font-weight: bold;
 }
 
 .mid-section > .middle-section > .button-5 {
     position: relative;
-    top: -500px;
-    left: 80px;
+    top: -650px;
+    left: 100px;
     color: white;
     background-color: black;
-    font-size: 1.8em;
+    font-size: 2.4em;
     
 }
 
@@ -308,12 +309,13 @@ html,body {
     color: white;
     background-color: #545454;
     padding: 20px;
-    width: 310px;
+    width: 337.5px;
     height: 15px;
     border-radius: 3px;
     border: 1px solid;
     border-color: #bebebe;
-    top: -420px;
+    top: -540px;
+    left: 10px;
 }
 
 .mid-section > .middle-section > .box-2 {
@@ -321,13 +323,13 @@ html,body {
     color: white;
     background-color: #545454;
     padding: 20px;
-    width: 310px;
+    width: 337.5px;
     height: 15px;
     border-radius: 3px;
     border: 1px solid;
     border-color: #bebebe;
-    top: -477px;
-    left: 350px;
+    top: -597px;
+    left: 390px;
 }
 
 .mid-section > .middle-section > .box-3 {
@@ -335,14 +337,13 @@ html,body {
     color: white;
     background-color: #545454;
     padding: 20px;
-    width: 310px;
+    width: 337.5px;
     height: 15px;
     border-radius: 3px;
     border: 1px solid;
     border-color: #bebebe;
-    top: -420px;
-    left: 700px;
-    top: -534px;
+    top: -654px;
+    left: 769px;
 }
 
 .mid-section > .middle-section > .box-4 {
@@ -350,83 +351,83 @@ html,body {
     color: white;
     background-color: #545454;
     padding: 20px;
-    width: 310px;
+    width: 340px;
     height: 15px;
     border-radius: 3px;
     border: 1px solid;
     border-color: #bebebe;
-    top: -591px;
-    left: 1050px;
+    top: -711px;
+    left: 1147px;
 }
 
 .mid-section > .middle-section > .codepen-for {
     position: relative;
-    left: 70px;
-    top: -630px;
-    font-size: 1.2em;
+    left: 67px;
+    top: -750px;
+    font-size: 1.6em;
     color: white;
     font-weight: bold;
 }
 
 .mid-section > .middle-section > .team {
     position: relative;
-    left: 180px;
-    top: -659px;
-    font-size: 1.8em;
+    left: 220px;
+    top: -783px;
+    font-size: 2.0em;
     font-weight: bold;
     color: white;
 }
 
 .mid-section > .middle-section > .codepen-for-1 {
     position: relative;
-    top: -683px;
-    left: 390px;
-    font-size: 1.2em;
+    top: -817px;
+    left: 410px;
+    font-size: 1.6em;
     color: white;
     font-weight: bold;
 }
 
 .mid-section > .middle-section > .edu {
     position: relative;
-    left: 500px;
-    top: -712px;
-    font-size: 1.8em;
+    left: 560px;
+    top: -850px;
+    font-size: 2.0em;
     font-weight: bold;
     color: white;
 }
 
 .mid-section > .middle-section > .codepen-for-2 {
     position: relative;
-    left: 750px;
-    top: -738px;
-    font-size: 1.2em;
+    left: 805px;
+    top: -884px;
+    font-size: 1.6em;
     font-weight: bold;
     color: white;
 }
 
 .mid-section > .middle-section > .privacy {
     position: relative;
-    left: 864px;
-    top: -768px;
-    font-size: 1.8em;
+    left: 960px;
+    top: -918px;
+    font-size: 2.0em;
     font-weight: bold;
     color: white;
 }
 
 .mid-section > .middle-section> .codepen-for-3 {
     position: relative;
-    left: 1090px;
-    top: -792px;   
-    font-size: 1.2em;
+    left: 1180px;
+    top: -950px;   
+    font-size: 1.6em;
     color: white;
     font-weight: bold; 
 }
 
 .mid-section > .middle-section > .writing {
     position: relative;
-    left: 1200px;
-    top: -821px;
-    font-size: 1.8em;
+    left: 1330px;
+    top: -985px;
+    font-size: 2.0em;
     font-weight: bold;
     color: white;
 }
@@ -438,7 +439,7 @@ html,body {
 }
 
 .mid-section {
-    height: 1050px;
+    height: 1250px;
 }
 
 html,body {
