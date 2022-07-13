@@ -28,6 +28,7 @@ svg {
 }
 
 .header > .explore {
+    display: flex;
     font-size: 17px;
     color: #cea135;
     position: relative;
