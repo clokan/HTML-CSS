@@ -1,0 +1,795 @@
+.container-1 {
+    display: flex;
+    width: 100%;
+    height: 80px;
+    background-color: black;
+}
+
+html,body {
+    margin:0;
+    padding:0;
+    overflow-x:hidden;
+    }
+
+
+
+
+    .box-1 {
+    display: flex;
+    height: 75px;
+    width: 130px;
+    background-color: none;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.box-1 > .logo {
+    display: flex;
+    background-color: none;
+    height: 100px;
+    width: 200px;
+    margin-left: 315px;
+    margin-top: 25px;
+}
+
+
+
+.box-1 > .projects {
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    background-color: none;
+    display: flex;
+    padding-top: 38px;
+    padding-left: 50px;
+    margin-right: 160px;
+}
+
+
+
+
+.box-2 > .explore {
+    color: #cea135;
+    display: flex;
+    padding-left: 35px;
+    padding-top: 15px;
+    font-weight: bold;
+}
+
+.box-2 > .pens {
+    color: white;
+    font-weight: bold;
+    font-size: 1.2em;
+    padding-left: 35px;
+    padding-top: 5px;
+}
+
+.box-5 {
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    display: flex;
+    padding-top: 38px;
+    padding-left: 93px;
+}
+
+.box-6 {
+    color: white;
+    font-size: 1.2em;
+    font-weight: bold;
+    display: flex;
+    padding-top: 38px;
+    padding-left: 35px;
+}
+
+.box-7 {
+    color: grey;
+    font-size: 1.1em;
+    font-weight: bold;
+    display: flex;
+    padding-top: 39px;
+    padding-left: 40px;
+}
+
+.box-8 {
+    color: grey;
+    font-size: .9em;
+    font-weight: bold;
+    display: flex;
+    padding-top: 43px;
+    padding-left: 10px;
+}
+
+.button-1 {
+    background-color: #3d3d3d;
+    align-self: center;
+    border: none;
+    border-radius: 5px;
+}
+
+/* used for extra spacing */
+.down-arrow-2 {
+    color: black;
+    display: flex;
+    background-color: none;
+    padding-left: 230px;
+}
+
+
+
+.button-1 > .create {
+    color: white;
+    display: flex;
+    font-size: 1.3em;
+    align-self: flex-start;
+    padding-left: 7px;
+    background-color: none;
+    margin-right: 55px;
+    padding-top: 13px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.button-1 > .down-arrow-2-1 {
+    color: lightgreen;
+    display: flex;
+    background-color: none;
+    padding-left: 80px;
+    margin-top: -20px;
+    padding-bottom: 30px;
+    font-size: 1.4em;    
+}
+
+html,body {
+    margin:0;
+    padding:0;
+    overflow-y:hidden;
+    }
+
+.box-9 {
+    color: #3d3d3d;
+    display: flex;
+    background-color: none;
+    font-size: 2.0em;
+    font-weight: lighter;
+    padding-left: 25px;
+    align-self: center;
+}
+
+
+.spacer {
+    display: flex;
+    padding-left: 13px;
+    color: black;
+}
+
+
+.button-2 {
+    background-color: #3d3d3d;
+    color: white;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: flex;
+    padding-left: 23px;
+    padding-top: 15px;
+    align-self: center;
+}
+
+
+.spacer-2 {
+    display: flex;
+    padding-left: 15px;
+    color: black;
+}
+
+.button-3 {
+    background-color: #3d3d3d;
+    color: white;
+    font-size: 1.1em;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    display: flex;
+    padding-left: 23px;
+    padding-top: 15px;
+    align-self: center;
+}
+
+
+.button-5 {
+    display: none;
+}
+.button-6 {
+    display: none;
+}
+.button-7 {
+    display: none;
+}
+.box-10 {
+    display: none;
+}
+
+.spacer-3 {
+    display: none;
+}
+.spacer-4 {
+    display: none;
+}
+.spacer-5 {
+    display: none;
+}
+
+@media screen and (min-width: 1900px) {
+    .container-1 {
+        display: flex;
+        width: 100%;
+        height: 120px;
+        background-color: black;
+    }
+    
+    html,body {
+        margin:0;
+        padding:0;
+        overflow-x:hidden;
+        }
+    
+    
+    
+    
+        .box-1 {
+        display: flex;
+        height: 75px;
+        width: 130px;
+        background-color: none;
+        justify-content: center;
+        padding-left: 20px;
+    }
+    
+    .box-1 > .logo {
+        display: flex;
+        background-color: none;
+        height: 100px;
+        width: 200px;
+        margin-left: 515px;
+        margin-top: 35px;
+    }
+    
+    
+    
+    .box-1 > .projects {
+        color: white;
+        font-weight: bold;
+        font-size: 1.8em;
+        background-color: none;
+        display: flex;
+        padding-top: 56px;
+        padding-left: 120px;
+        margin-right: 160px;
+    }
+    
+    
+    
+    
+    .box-2 > .explore {
+        color: #cea135;
+        display: flex;
+        padding-left: 105px;
+        padding-top: 20px;
+        font-weight: bold;
+        font-size: 1.7em;
+    }
+    
+    .box-2 > .pens {
+        color: white;
+        font-weight: bold;
+        font-size: 1.8em;
+        padding-left: 105px;
+        padding-top: 5px;
+    }
+    
+    .box-5 {
+        color: white;
+        font-size: 1.8em;
+        font-weight: bold;
+        display: flex;
+        padding-top: 57px;
+        padding-left: 145px;
+    }
+    
+    .box-6 {
+        color: white;
+        font-size: 1.8em;
+        font-weight: bold;
+        display: flex;
+        padding-top: 57px;
+        padding-left: 70px;
+    }
+    
+    .box-7 {
+        color: grey;
+        font-size: 1.7em;
+        font-weight: bold;
+        display: flex;
+        padding-top: 57px;
+        padding-left: 70px;
+    }
+    
+    .box-8 {
+        color: grey;
+        font-size: 1.3em;
+        font-weight: bold;
+        display: flex;
+        padding-top: 62px;
+        padding-left: 30px;
+    }
+    
+    .button-1 {
+        background-color: #3d3d3d;
+        align-self: center;
+        border: none;
+        border-radius: 5px;
+        display: none;
+    }
+    
+    /* used for extra spacing */
+    .down-arrow-2 {
+        color: black;
+        display: flex;
+        background-color: none;
+        padding-left: 80px;
+    }
+    
+    
+    
+    .button-1 > .create {
+        color: white;
+        display: flex;
+        font-size: 1.3em;
+        align-self: flex-start;
+        padding-left: 7px;
+        background-color: none;
+        margin-right: 55px;
+        padding-top: 13px;
+        font-weight: bold;
+        margin-left: 10px;
+    }
+    
+    .button-1 > .down-arrow-2-1 {
+        color: lightgreen;
+        display: flex;
+        background-color: none;
+        padding-left: 80px;
+        margin-top: -20px;
+        padding-bottom: 30px;
+        font-size: 1.4em;  
+    }
+    
+    html,body {
+        margin:0;
+        padding:0;
+        overflow-y:hidden;
+        }
+    
+    .box-9 {
+        color: #3d3d3d;
+        display: flex;
+        background-color: none;
+        font-size: 2.0em;
+        font-weight: lighter;
+        padding-left: 25px;
+        align-self: center;
+        display: none;
+    }
+    
+    
+    .spacer {
+        display: flex;
+        padding-left: 13px;
+        color: black;
+    }
+    
+    
+    .button-2 {
+        background-color: #3d3d3d;
+        color: white;
+        font-size: 1.1em;
+        border: none;
+        border-radius: 5px;
+        font-weight: bold;
+        display: flex;
+        padding-left: 23px;
+        padding-top: 15px;
+        align-self: center;
+        display: none;
+    }
+    
+    
+    .spacer-2 {
+        display: flex;
+        padding-left: 75px;
+        color: black;
+    }
+    
+    .button-3 {
+        background-color: #3d3d3d;
+        color: white;
+        font-size: 1.1em;
+        border: none;
+        border-radius: 5px;
+        font-weight: bold;
+        display: flex;
+        padding-left: 23px;
+        padding-top: 15px;
+        align-self: center;
+        display: none;
+    }
+
+   .button-5 > .down-arrow-3 {
+    display: flex;
+    background-color: none;
+    color: lightgreen;
+    font-size: 40px;
+    padding-left: 30px;
+   }
+
+
+   .button-5 {
+    display: flex;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    align-self: center;
+    padding-left: 25px;
+    padding-top: 20px;
+    background-color: #3d3d3d;
+    border: none;
+    border-radius: 5px;
+   }
+
+   .box-10 {
+    display: flex;
+    color: #3d3d3d;
+    font-size: 55px;
+    font-weight: bold;
+    padding-left: 40px;
+    align-self: center;
+   }
+
+   .button-6 {
+    display: flex;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    align-self: center;
+    padding-left: 30px;
+    padding-top: 20px;
+    background-color: #3d3d3d;
+    border: none;
+    border-radius: 5px;
+   }
+
+   .button-7 {
+    display: flex;
+    font-size: 35px;
+    font-weight: bold;
+    color: white;
+    align-self: center;
+    padding-top: 20px;
+    background-color: #3d3d3d;
+    border: none;
+    border-radius: 5px;
+    padding-left: 15px;
+   }
+
+   .spacer-3 {
+    display: flex;
+   }
+
+   .spacer-4 {
+    display: flex;
+    padding-left: 30px;
+   }
+
+   .spacer-5 {
+    display: flex;
+    padding-left: 50px;
+   }
+}
+
+@media screen and (min-width: 1900px) {
+    .container-2 {
+        display: flex;
+        background-color: #404040;
+        flex-direction: column;
+        height: 1090px;
+    }
+
+    .container-2 > .container-3 {
+        display: flex;
+        background-color: #404040;
+        flex-direction: column;
+        height: 700px;
+        
+    }
+
+    .container-2 > .container-3 > .box-11 {
+        display: flex;
+        font-size: 60px;
+        color: #bbbbbb;
+        padding-left: 100px;
+        padding-top: 40px;
+    }
+
+    .container-2 > .container-3 > .box-11 > .social {
+        display: flex;
+        font-size: 60px;
+        color: white;
+        padding-left: 15px;
+        font-weight: bold;
+    }
+
+    
+
+    .container-2 > .container-3 > .box-13 {
+        display: flex;
+        font-size: 60px;
+        color: #bbbbbb;
+    }
+
+    .container-2 > .container-3 > .box-13 > .en {
+        display: flex;
+        font-size: 60px;
+        color: white;
+        padding-left: 100px;
+        padding-right: 15px;
+        font-weight: bold;
+    }
+
+
+
+    .container-2 > .container-3 > .box-15 {
+        display: flex;
+        font-size: 60px;
+        padding-left: 100px;
+        padding-bottom: 30px;
+        color: #bbbbbb;
+    }
+
+    .container-2 > .container-3 > .box-15 > .dev {
+        display: flex;
+        margin-bottom: 30px;
+        padding-left: 20px;
+    }
+
+    .container-2 > .container-3 > .box-15 > .hand {
+        display: flex;
+        font-size: 60px;
+        color: yellow;
+        padding-left: 45px;
+    }
+
+   
+
+    .container-2 > .container-3 > .box-17 > .cool {
+        display: flex;
+        font-size: 50px;
+        padding-left: 100px;
+        padding-top: 30px;
+        color: #bbbbbb;
+        
+
+    }
+
+    .container-2 > .container-3 > .box-18 > .coool {
+        display: flex;
+        font-size: 50px;
+        padding-left: 100px;
+        color: #bbbbbb;
+    }
+
+    .container-2 > .container-3 > .box-19 > .cooool {
+        display: flex;
+        font-size: 50px;
+        padding-left: 100px;
+        color: #bbbbbb;
+    }
+
+    .container-2 > .container-3 > .container-4 > .box-20 > .coooool button {
+        display: flex;
+        font-size: 50px;
+        font-weight: bold;
+        background-color: #68bb59;
+
+    }
+
+    .container-2 > .container-3 > .container-4 > .box-21 > .cooooool button {
+        display: flex;
+        font-size: 50px;
+        background-color: black;
+        color: white;
+        font-weight: bold;
+    }
+
+    .container-4 {
+        display: flex;
+        background-color: #404040;
+        flex-direction: row;
+        padding-left: 100px;
+        height: 100px;
+        padding-top: 60px;
+    }
+
+    .button-9{
+        display: flex;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border: none;
+        border-radius: 5px;
+        margin-left: 70px;
+    }
+
+    .button-8 {
+        display: flex;
+        border: none;
+        border-radius: 5px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+
+    .box-11 > .box-22 {
+        display: flex;
+        color: white;
+        font-size: .6em;
+        padding-left: 410px;
+
+    }
+
+    .box-11 > .box-23 {
+        display: flex;
+        color: lightblue;
+        font-size: .6em;
+        padding-left: 10px;
+    }
+
+    .box-11 > .box-24 {
+        display: flex;
+        color: white;
+        font-size: .6em;
+        padding-left: 5px;
+        
+    }
+
+    .container-5 > .image-2 img {
+        display: flex;
+        height: 630px;
+        width: 800px;
+    }
+
+    .container-5 {
+        background-color: #404040;
+        width: 100%;
+        margin-left: 1090px;
+        margin-top: -600px;
+        padding-left: 190px;
+    }
+
+
+    .container-6 {
+        display: flex;
+        flex-direction: row;
+        background-color: #5f5f5f;
+        margin-top: 10px;
+        justify-content: flex-start;
+    }
+
+    .box-25 {
+        display: flex;
+        font-size: 35px;
+        border: 1px white solid;
+        width: 481.75px;
+        height: 100px;
+        justify-content: center;
+        color: white;
+        /* margin: auto; */
+    }
+
+    .box-26 {
+        display: flex;
+        font-size: 35px;
+        border: 1px white solid;
+        width: 481.75px;
+        height: 100px;
+        justify-content: center;
+        color: white;
+        /* margin: auto; */
+
+    }
+   
+    .box-27 {
+        display: flex;
+        font-size: 35px;
+        border: 1px white solid;
+        width: 481.75px;
+        height: 100px;
+        justify-content: center;
+        color: white;
+        /* margin: auto; */
+
+    }
+
+    .box-28 {
+        display: flex;
+        font-size: 35px;
+        border: 1px white solid;
+        width: 481.75px;
+        height: 100px;
+        justify-content: center;
+        color: white;
+        /* margin: auto; */
+
+    }
+
+    .box-25 > .team {
+        display: flex;
+        font-size: 1.2em;
+        font-weight: bold;
+        padding-left: 10px;
+        align-self: center
+    }
+
+    .box-26 > .edu {
+        display: flex;
+        font-size: 1.2em;
+        font-weight: bold;
+        padding-left: 10px;
+        align-self: center
+    }
+
+    .box-27 > .privacy {
+        display: flex;
+        font-size: 1.2em;
+        font-weight: bold;
+        padding-left: 10px;
+        align-self: center
+    }
+
+    .box-28 > .writing {
+        display: flex;
+        font-size: 1.2em;
+        font-weight: bold;
+        padding-left: 10px;
+        align-self: center
+    }
+
+    .box-25 > .c-1 {
+        display: flex;
+        align-self: center;
+    }
+
+    .box-26 > .c-2 {
+        display: flex;
+        align-self: center;
+    }
+
+    .box-27 > .c-3 {
+        display: flex;
+        align-self: center;
+    }
+
+    .box-28 > .c-4 {
+        display: flex;
+        align-self: center;
+    }
+
+
+    
+
+
+}
